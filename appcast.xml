@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Aviary</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 14 Jul 2026 12:27:21 -0600</pubDate>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/juergen-kc/aviary-releases/releases/download/v0.1.0/Aviary-0.1.0.zip" length="1619374" type="application/octet-stream" sparkle:edSignature="KjRDaLu6wsNf01eZlLPeD3X/m+qNxp5OQK8FNYXkbMbdLtFd5GjhYMClzcJR9kQTrvWl+Pqdl5KX2ZnHmbYaDA=="/>
+        </item>
+    </channel>
+</rss>
