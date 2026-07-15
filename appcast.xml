@@ -3,12 +3,12 @@
     <channel>
         <title>Aviary</title>
         <item>
-            <title>0.1.9</title>
-            <pubDate>Wed, 15 Jul 2026 10:33:11 -0600</pubDate>
-            <sparkle:version>0.1.9</sparkle:version>
-            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Wed, 15 Jul 2026 17:02:39 -0600</pubDate>
+            <sparkle:version>0.2.0</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/juergen-kc/aviary-releases/releases/download/v0.1.9/Aviary-0.1.9.zip" length="2690420" type="application/octet-stream" sparkle:edSignature="2tgydvXgtQMM48+9W8Kh+Ic6Dj1wJ84qS0pvBK74hQkJ7OweT6hFQO5U4voK0bmBJN7T3pqUrUqGY9Yw97h8CQ=="/>
+            <enclosure url="https://github.com/juergen-kc/aviary-releases/releases/download/v0.2.0/Aviary-0.2.0.zip" length="2774636" type="application/octet-stream" sparkle:edSignature="DxFZSvAuvkWRwjSqkcLKb6uiMQnvL1SBk9hKtq5emmJ37pjdrZ+Ack1JxYSbnM0a6O2/Np3Sx7DQe0N/RXPeCw=="/>
         </item>
     </channel>
 </rss>
